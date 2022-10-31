@@ -1,4 +1,4 @@
-
+wc technical/biomed/*.txt > biomed-sizes.txt
   
     
       
